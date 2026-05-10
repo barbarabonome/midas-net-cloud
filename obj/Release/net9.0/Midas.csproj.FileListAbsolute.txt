@@ -1,0 +1,8 @@
+C:\Users\barba\Downloads\midas-.net-main\midas-.net-main\obj\Release\net9.0\Midas.csproj.AssemblyReference.cache
+C:\Users\barba\Downloads\midas-.net-main\midas-.net-main\obj\Release\net9.0\rpswa.dswa.cache.json
+C:\Users\barba\Downloads\midas-.net-main\midas-.net-main\obj\Release\net9.0\Midas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\barba\Downloads\midas-.net-main\midas-.net-main\obj\Release\net9.0\Midas.AssemblyInfoInputs.cache
+C:\Users\barba\Downloads\midas-.net-main\midas-.net-main\obj\Release\net9.0\Midas.AssemblyInfo.cs
+C:\Users\barba\Downloads\midas-.net-main\midas-.net-main\obj\Release\net9.0\Midas.csproj.CoreCompileInputs.cache
+C:\Users\barba\Downloads\midas-.net-main\midas-.net-main\obj\Release\net9.0\Midas.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\barba\Downloads\midas-.net-main\midas-.net-main\obj\Release\net9.0\Midas.MvcApplicationPartsAssemblyInfo.cache

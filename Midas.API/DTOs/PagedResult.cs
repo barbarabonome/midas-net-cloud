@@ -1,0 +1,26 @@
+namespace Midas.API.DTOs
+{
+    public class PagedResult<T>
+    {
+        public List<T> Data { get; set; } = new List<T>();
+        public int TotalRecords { get; set; }
+        public int TotalPages { get; set; }
+        public int CurrentPage { get; set; }
+        public int PageSize { get; set; }
+        public bool HasNext => CurrentPage < TotalPages;
+        public bool HasPrevious => CurrentPage > 1;
+        
+        public PagedResult()
+        {
+        }
+
+  public PagedResult(List<T> data, int totalRecords, int currentPage, int pageSize)
+      {
+         Data = data;
+      TotalRecords = totalRecords;
+    CurrentPage = currentPage;
+   PageSize = pageSize;
+            TotalPages = (int)Math.Ceiling((double)totalRecords / pageSize);
+        }
+ }
+}

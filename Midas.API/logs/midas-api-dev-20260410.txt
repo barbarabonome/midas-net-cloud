@@ -1,0 +1,10 @@
+[2026-04-10 20:14:27.508 -03:00] [INF] [13dae5dc-46fb-4627-baec-c2050081d1de] [] Requisição iniciada: GET /swagger/index.html
+[2026-04-10 20:14:29.944 -03:00] [INF] [13dae5dc-46fb-4627-baec-c2050081d1de] [] Requisição finalizada com status: 200
+[2026-04-10 20:14:30.224 -03:00] [INF] [7475d1c5-1de9-49a8-8e9f-3470b3512e0f] [] Requisição iniciada: GET /swagger/v1/swagger.json
+[2026-04-10 20:14:30.321 -03:00] [INF] [7475d1c5-1de9-49a8-8e9f-3470b3512e0f] [] Requisição finalizada com status: 200
+[2026-04-10 20:14:48.571 -03:00] [INF] [40c1763c-79cc-4c1a-b55a-460428ff82de] [] Requisição iniciada: GET /api/usuarios
+[2026-04-10 20:14:53.082 -03:00] [INF] [40c1763c-79cc-4c1a-b55a-460428ff82de] [Midas.Controllers.UsuarioController] Buscando todos os usuários
+[2026-04-10 20:14:53.090 -03:00] [INF] [40c1763c-79cc-4c1a-b55a-460428ff82de] [Midas.Infrastructure.Persistence.Repositories.UsuarioRepository] Buscando todos os usuários
+[2026-04-10 20:14:55.670 -03:00] [INF] [40c1763c-79cc-4c1a-b55a-460428ff82de] [Midas.Infrastructure.Persistence.Repositories.UsuarioRepository] Total de usuários encontrados: 7
+[2026-04-10 20:14:55.674 -03:00] [INF] [40c1763c-79cc-4c1a-b55a-460428ff82de] [Midas.Controllers.UsuarioController] Total de usuários retornados: 7
+[2026-04-10 20:14:55.729 -03:00] [INF] [40c1763c-79cc-4c1a-b55a-460428ff82de] [] Requisição finalizada com status: 200

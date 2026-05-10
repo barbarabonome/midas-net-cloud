@@ -1,0 +1,209 @@
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\Midas.API.csproj.AssemblyReference.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\Midas.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\Midas.API.AssemblyInfoInputs.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\Midas.API.AssemblyInfo.cs
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\Midas.API.csproj.CoreCompileInputs.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\Midas.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\Midas.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\Midas.API.sourcelink.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\appsettings.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Midas.API.staticwebassets.endpoints.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Midas.API.exe
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Midas.API.deps.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Midas.API.runtimeconfig.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Midas.API.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Midas.API.pdb
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\scopedcss\bundle\Midas.API.styles.css
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\Midas.API.csproj.Up2Date
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\Midas.API.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\refint\Midas.API.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\Midas.API.pdb
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\Midas.API.genruntimeconfig.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\obj\Debug\net9.0\ref\Midas.API.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Oracle.EntityFrameworkCore.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\Oracle.ManagedDataAccess.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\System.DirectoryServices.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\System.DirectoryServices.Protocols.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\3° semestre\MIDAS\.net\Nova pasta\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\appsettings.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Midas.API.staticwebassets.endpoints.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Midas.API.exe
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Midas.API.deps.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Midas.API.runtimeconfig.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Midas.API.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Midas.API.pdb
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Oracle.EntityFrameworkCore.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Oracle.ManagedDataAccess.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\System.DirectoryServices.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\System.DirectoryServices.Protocols.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\Midas.API.csproj.AssemblyReference.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\Midas.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\Midas.API.AssemblyInfoInputs.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\Midas.API.AssemblyInfo.cs
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\Midas.API.csproj.CoreCompileInputs.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\Midas.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\Midas.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\Midas.API.sourcelink.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\scopedcss\bundle\Midas.API.styles.css
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\Midas.API.csproj.Up2Date
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\Midas.API.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\refint\Midas.API.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\Midas.API.pdb
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\Midas.API.genruntimeconfig.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\FIAP\2° ano\4° semestre\.NET\Midas.API\obj\Debug\net9.0\ref\Midas.API.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\appsettings.json
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Midas.API.staticwebassets.endpoints.json
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Midas.API.exe
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Midas.API.deps.json
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Midas.API.runtimeconfig.json
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Midas.API.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Midas.API.pdb
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Humanizer.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Mono.TextTemplating.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Oracle.EntityFrameworkCore.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Oracle.ManagedDataAccess.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Serilog.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Serilog.AspNetCore.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Serilog.Extensions.Hosting.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Serilog.Extensions.Logging.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Serilog.Formatting.Compact.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Serilog.Settings.Configuration.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Serilog.Sinks.Console.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Serilog.Sinks.Debug.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Serilog.Sinks.File.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Annotations.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\System.CodeDom.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\System.DirectoryServices.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\System.DirectoryServices.Protocols.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\System.Drawing.Common.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\System.Security.Permissions.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\System.Windows.Extensions.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Diagnostics.PerformanceCounter.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.DirectoryServices.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\runtimes\linux\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\runtimes\osx\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.DirectoryServices.Protocols.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\Midas.API.csproj.AssemblyReference.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\Midas.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\Midas.API.AssemblyInfoInputs.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\Midas.API.AssemblyInfo.cs
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\Midas.API.csproj.CoreCompileInputs.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\Midas.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\Midas.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\Midas.API.sourcelink.json
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\scopedcss\bundle\Midas.API.styles.css
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\Midas.API.csproj.Up2Date
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\Midas.API.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\refint\Midas.API.dll
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\Midas.API.pdb
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\Midas.API.genruntimeconfig.cache
+C:\Users\minsi\OneDrive\Área de Trabalho\Documentos Yasmin\midas-abr-26\Midas.API\obj\Debug\net9.0\ref\Midas.API.dll
