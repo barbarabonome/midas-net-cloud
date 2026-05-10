@@ -13,11 +13,11 @@ steps:
     packageType: 'sdk'
     version: '9.0.x'
 
-- script: dotnet restore
+- script: dotnet restore Midas.csproj
   displayName: 'Restaurar dependências'
 
-- script: dotnet build --configuration $(buildConfiguration)
+- script: dotnet build Midas.csproj --configuration $(buildConfiguration)
   displayName: 'Build do projeto'
 
-- script: dotnet test --configuration $(buildConfiguration) --no-build
+- script: dotnet test Midas.csproj --configuration $(buildConfiguration) --no-build
   displayName: 'Executar testes'
