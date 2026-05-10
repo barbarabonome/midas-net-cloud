@@ -1,0 +1,23 @@
+trigger:
+- main
+
+pool:
+  vmImage: 'ubuntu-latest'
+
+variables:
+  buildConfiguration: 'Release'
+
+steps:
+- task: UseDotNet@2
+  inputs:
+    packageType: 'sdk'
+    version: '9.0.x'
+
+- script: dotnet restore
+  displayName: 'Restaurar dependências'
+
+- script: dotnet build --configuration $(buildConfiguration)
+  displayName: 'Build do projeto'
+
+- script: dotnet test --configuration $(buildConfiguration) --no-build
+  displayName: 'Executar testes'
