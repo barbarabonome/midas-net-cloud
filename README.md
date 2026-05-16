@@ -188,7 +188,7 @@ dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
    - **Nota**: Em outros casos, as portas são exibidas no console quando a aplicação inicia
 
 ### Portas Padrão
-- HTTP: `5220`
+- HTTP: `5000`
 - HTTPS: `7018` (quando habilitado)
 
 ### Variáveis de Ambiente

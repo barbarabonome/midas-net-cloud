@@ -12,8 +12,9 @@ using Serilog.Context;
 
 var builder = WebApplication.CreateBuilder(args);
 
-var port = Environment.GetEnvironmentVariable("PORT") ?? "5220";
+var port = Environment.GetEnvironmentVariable("PORT") ?? "8080";
 builder.WebHost.UseUrls($"http://0.0.0.0:{port}");
+Console.WriteLine($"Midas API rodando na porta {port}");
 
 Log.Logger = new LoggerConfiguration()
     .ReadFrom.Configuration(builder.Configuration)
@@ -40,7 +41,7 @@ builder.Services.AddSwaggerGen(c =>
     {
 Title = "Midas API",
         Version = "v1",
-        Description = "API para controle financeiro - Sistema Midas"
+        Description = "API para controle financeiro | Sistema Midas"
     });
 });
 
@@ -66,7 +67,7 @@ builder.Services.AddScoped<ICategoriaBusiness, CategoriaBusiness>();
 // Register HATEOAS service
 builder.Services.AddScoped<HateoasLinkGenerator>();
 
-// Register Health Check services para injeção de dependência
+// Register Health Check services para injeï¿½ï¿½o de dependï¿½ncia
 builder.Services.AddScoped<ApiHealthCheck>();
 builder.Services.AddScoped<OracleHealthCheck>();
 
@@ -91,7 +92,7 @@ var app = builder.Build();
 // Adicionar CORS antes de outras middlewares
 app.UseCors("AllowAll");
 
-// Middleware para logging de requisições com correlação
+// Middleware para logging de requisiï¿½ï¿½es com correlaï¿½ï¿½o
 app.Use(async (context, next) =>
 {
   var correlationId = context.Request.Headers.ContainsKey("X-Correlation-ID")
@@ -105,9 +106,9 @@ app.Use(async (context, next) =>
     using (LogContext.PushProperty("RequestPath", context.Request.Path))
     using (LogContext.PushProperty("RequestMethod", context.Request.Method))
     {
-    Log.Information("Requisição iniciada: {Method} {Path}", context.Request.Method, context.Request.Path);
+    Log.Information("Requisiï¿½ï¿½o iniciada: {Method} {Path}", context.Request.Method, context.Request.Path);
   await next(context);
-        Log.Information("Requisição finalizada com status: {StatusCode}", context.Response.StatusCode);
+        Log.Information("Requisiï¿½ï¿½o finalizada com status: {StatusCode}", context.Response.StatusCode);
  }
 });
 
@@ -134,5 +135,8 @@ app.MapHealthChecks("/health", new Microsoft.AspNetCore.Diagnostics.HealthChecks
 {
     ResponseWriter = HealthCheckResponseWriter.WriteJsonResponse
 });
+
+Console.WriteLine("Midas API iniciada com sucesso!");
+Console.WriteLine("AplicaÃ§Ã£o rodando na porta configurada.");
 
 app.Run();
