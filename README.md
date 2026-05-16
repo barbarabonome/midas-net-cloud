@@ -2,6 +2,11 @@
 
 O Midas é um app mobile que ajuda usuários a gerenciar suas finanças pessoais, controlar gastos recorrentes, definir metas e prever o saldo futuro com base no histórico de transações.
 
+## 👥 Equipe
+- Barbara Bonome Filipus - RM 560431 | 2TDSPR
+- Vinicius Lira Ruggeri - RM 560593 | 2TDSPR
+- Yasmin Pereira da Silva - RM 560039 | 2TDSPR
+
 ## 🚀 Funcionalidades
 - Registro de ganhos e gastos
 - Controle de assinaturas e contas recorrentes
@@ -201,9 +206,4 @@ dotnet test /p:CollectCoverage=true /p:CoverletOutputFormat=opencover
 - Logging de operações sensíveis
 - Suporte a CORS configurável
 - Proteção contra ciclos de referência em JSON
-
-## 👥 Equipe
-- Barbara Bonome Filipus - RM 560431 | 2TDSPR
-- Vinicius Lira Ruggeri - RM 560593 | 2TDSPR
-- Yasmin Pereira da Silva - RM 560039 | 2TDSPR
 
