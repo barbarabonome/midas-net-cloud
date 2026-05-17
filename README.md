@@ -8,7 +8,7 @@ O Midas é um app mobile que ajuda usuários a gerenciar suas finanças pessoais
 - Yasmin Pereira da Silva - RM 560039 | 2TDSPR
 
 ## 🚀 Funcionalidades
-- Registro de ganhos e gastos
+- Registro de ganhos e gastos.
 - Controle de assinaturas e contas recorrentes
 - Metas financeiras com progresso visual
 - Previsão de saldo no fim do mês (baseado em histórico e gastos médios)
